@@ -1,0 +1,15 @@
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/kouhei/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20190623-3586-s6zqkb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190623-3586-gdxfhj/skiptrace

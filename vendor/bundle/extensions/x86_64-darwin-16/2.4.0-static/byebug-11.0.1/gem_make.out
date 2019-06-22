@@ -1,0 +1,19 @@
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/kouhei/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20190623-3586-62mbjp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kouhei/Downloads/programming/environment/toy_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190623-3586-jeeaxh/byebug
